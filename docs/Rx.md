@@ -104,6 +104,8 @@ http://www.graupner.de/en/products/33512/product.aspx
 Graupner receiver GR-12SH+ HoTT
 http://www.graupner.de/en/products/870ade17-ace8-427f-943b-657040579906/33565/product.aspx
 
+Graupner receiver GR-16 HoTT
+http://www.graupner.de/en/products/65b0c353-27dd-41aa-8f7c-6f8d6276fd3d/33508/product.aspx
 ### SUMH
 
 8 channels via serial currently supported.
